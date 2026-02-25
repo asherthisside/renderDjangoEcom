@@ -1,0 +1,26 @@
+Git / Github (Separate)
+
+Git (Software)  Helps in VC (Git is a VCS (Version Controlling System)) 
+Github (Online Service) (A Website that helps you in hosting your gits online)
+
+
+
+Repository ()
+Folder / Directory / Repository (Folder that is being tracked by git)
+
+.gitignore: file (?)
+
+
+Working tree -> branch
+Staging area 
+Git repository 
+
+1000 lines 
+
+800 lines -> 2000 lines (br2)
+
+570 lines (main) | 800 lines + 200 (project)
+
+570 lines + 230 lines (800 lines) (br1)
+
+git clone git@github.com:asherthisside/DjangoEcommerce.git

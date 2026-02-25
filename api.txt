@@ -1,0 +1,64 @@
+API: Application Programming Interface
+
+Interface: ??
+UI: User Interface
+Backend System : 
+Buzz word: 
+Application: Two different parts (Frontend, Backend, Database) | Two Different Applications (Data Sharing)
+Restaurant: 
+Food 
+Kitchen (Chef) => Front (Customer)
+Data 
+Backend <=> API <=> Frontend
+
+
+Flight rate prediction : 
+Data | Algorithm
+
+Manually 
+Aviation Company : Air India 
+Authentication: 
+API Key : XYZ 
+Rate limiting
+
+
+Client (URL) ----Request-----> Server -----Response-----> HTML/CSS/JS (Client)
+
+API (Endpoint) ----> Request -----> Server ---- Reponse ----> (Client (API))
+HTML/CSS/JS 
+JSON / XML : Platform Independent  Data Interchange format 
+
+Endpoint (URL):
+Resource:
+HTTP Methods (HTTP Verbs) 
+        POST        Create
+        GET         Read
+        PUT/PATCH   Update
+        DELETE      Delete 
+
+
+
+https://www.air-india.com
+
+https://www.api.air-india.com 
+https://www.air-india.com/api
+
+flights 
+routes 
+customers
+prices 
+offers
+planes
+
+
+https://www.air-india.com/api/flights
+https://www.air-india.com/api/routes
+https://www.air-india.com/api/customers
+https://www.air-india.com/api/customer/salman
+
+
+first name
+last name
+Phone
+Email 
+address 
